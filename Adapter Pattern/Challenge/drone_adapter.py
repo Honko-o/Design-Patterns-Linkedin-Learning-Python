@@ -8,4 +8,5 @@ class DroneAdapter:
         self.drone.beep()
     
     def fly(self):
+        self.drone.spin_rotators()
         self.drone.take_off()
