@@ -1,3 +1,3 @@
-# Design Pattern Linkedin Learning With Python Code (By me)
+# Design Pattern Linkedin Learning With Python Code
 
 The Software used for drawing is ExcaliDraw
